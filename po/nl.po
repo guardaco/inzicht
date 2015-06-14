@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: nl\n"
+
+#: public/views/transaction/tx.html
+msgid "(Input unconfirmed)"
+msgstr "(Input niet bevestigd)"
+
+#: public/views/404.html
+msgid "404 Page not found :("
+msgstr "404 pagina niet gevonden :("
+
+#: public/views/index.html
+msgid ""
+"<strong>inzicht</strong>  is an <a href=\"http://inzicht.deguldenmijn.eu/\" "
+"target=\"_blank\">open-source Guldencoin blockchain explorer</a> with "
+"complete REST and websocket APIs that can be used for writing web wallets "
+"and other apps  that need more advanced blockchain queries than provided by "
+"bitcoind RPC.  Check out the <a href=\"http://github.com/strataghyst/inzicht"
+"\" target=\"_blank\">source code</a>."
+msgstr ""
+"<strong>inzicht</strong> is een <a href=\"http://inzicht.deguldenmijn.eu/\" "
+"target=\"_blank\">open-source Guldencoin blokketen explorer</a> with "
+"complete REST and websocket APIs die gebruikt kunnen worden voor het "
+"ontwikkelen van webwallets en andere apps die geavanceerdere blokketen "
+"queries gebruiken dan de bitcoind RPC.  Kijk naar de <a href=\"http://github."
+"com/strataghyst/inzicht\" target=\"_blank\">source code</a>."
+
+#: public/views/index.html
+msgid ""
+"<strong>inzicht</strong> is still in development, so be sure to report any "
+"bugs and provide feedback for improvement at our <a href=\"https://github."
+"com/strataghyst/inzicht/issues\" target=\"_blank\">github issue tracker</a>."
+msgstr ""
+"<strong>inzicht</strong> is continu onder constuctie, dus geef alle feedback "
+"bugs en tips door aan ons <a href=\"https://github.com/strataghyst/inzicht/"
+"issues\" target=\"_blank\">github issue tracker</a>."
+
+#: public/views/address.html
+msgid "Address"
+msgstr "Adres"
+
+#: public/views/index.html
+msgid "Age"
+msgstr "Leeftijd"
+
+#: public/views/status.html
+msgid "Application Status"
+msgstr "Aplicatie Status"
+
+#: public/views/status.html
+msgid "Best Block"
+msgstr "Beste Blok"
+
+#: public/views/block.html
+msgid "Block"
+msgstr "Blok"
+
+#: public/views/block.html
+msgid "Block Reward"
+msgstr "Blok Beloning"
+
+#: public/views/block_list.html public/views/dummy-translations.html
+#: public/views/status.html
+msgid "Blocks"
+msgstr "Blokken"
+
+#: public/views/status.html
+msgid "Bytes Serialized"
+msgstr "Bytes Geserialiseerd"
+
+#: public/views/includes/connection.html
+msgid ""
+"Can't connect to guldencoind to get live updates from the p2p network. "
+"(Tried connecting to guldencoind at {{host}}:{{port}} and failed.)"
+msgstr ""
+"Kan geen verbinding maken met Guldencoind om live updates van het p2p-"
+"netwerk krijgen. (Geprobeerd te verbinden met Guldencoind op {host}}:"
+"{{port}} maar mislukt.)"
+
+#: public/views/includes/connection.html
+msgid "Can't connect to internet. Please, check your connection."
+msgstr ""
+"Kan geen verbinding met internet krijgen. Kijk uw verbinding na alstublieft."
+
+#: public/views/includes/connection.html
+msgid "Can't connect to inzicht server. Attempting to reconnect..."
+msgstr "Kan geen verbinding krijgen met inzicht server. Probeer het opnieuw..."
+
+#: public/views/status.html
+msgid "Complete"
+msgstr "Klaar"
+
+#: public/views/transaction.html public/views/transaction/tx.html
+msgid "Confirmations"
+msgstr "Bevestigingen"
+
+#: public/views/includes/header.html
+msgid "Conn"
+msgstr "Conn"
+
+#: public/views/status.html
+msgid "Connections to other nodes"
+msgstr "Connecties met ander nodes"
+
+#: public/views/status.html
+msgid "Current Blockchain Tip (inzicht)"
+msgstr "Huidige Blokketen Tip (inzicht)"
+
+#: public/views/status.html
+msgid "Current Sync Status"
+msgstr "Huidig Sync Status"
+
+#: public/views/transaction.html
+msgid "Details"
+msgstr "Details"
+
+#: public/views/block.html
+msgid "Difficulty"
+msgstr "Moeilijkhijdsgraad"
+
+#: public/views/transaction/tx.html
+msgid "Double spent attempt detected. From tx:"
+msgstr "Dubbele uitgave poging gedecteerd. Van tx: "
+
+#: public/views/includes/connection.html
+msgid "Error!"
+msgstr "Fout!"
+
+#: public/views/transaction/tx.html
+msgid "Fee"
+msgstr "Fee"
+
+#: public/views/address.html
+msgid "Final Balance"
+msgstr "Eindsaldo"
+
+#: public/views/status.html
+msgid "Finish Date"
+msgstr "Eind Datum"
+
+#: public/views/404.html
+msgid "Go to home"
+msgstr "Ga naar home"
+
+#: public/views/index.html
+msgid ""
+"Guldencoin is a peer-to-peer Internet currency that enables instant, near-"
+"zero cost payments to anyone in the world. Guldencoin is an open source, "
+"global payment network that is fully decentralized. Mathematics secures the "
+"network and empowers individuals to control their own finances."
+msgstr ""
+"Guldencoin is een peer-to-peer internet betaalmiddel waarmee je direct bijna "
+"kosteloos betalingen kunt verichten overal ter wereld. Guldencoin is een "
+"open source wereldwijd betaalmiddel die volledig gedecentraliceerd is. "
+"Wiskunde beveiligd het netwerk en geeft individuen de macht om hun eigen "
+"financien te beheren."
+
+#: public/views/status.html
+msgid "Guldencoin node information"
+msgstr "Guldencoin node informatie"
+
+#: public/views/status.html
+msgid "Hash Serialized"
+msgstr "Hash Geserialiseerd"
+
+#: public/views/block.html public/views/block_list.html
+#: public/views/index.html public/views/status.html
+#: public/views/includes/header.html
+msgid "Height"
+msgstr "Hoogte"
+
+#: public/views/transaction.html public/views/transaction/tx.html
+msgid "Included in Block"
+msgstr "Inbegrepen in Blok"
+
+#: public/views/transaction/tx.html
+msgid "Incoherence in levelDB detected:"
+msgstr "Incoherentie in levelDB gedetecteerd:"
+
+#: public/views/status.html
+msgid "Info Errors"
+msgstr "Fout Meldingen"
+
+#: public/views/status.html
+msgid "Initial Block Chain Height"
+msgstr "Eerste Blokketen Hoogte"
+
+#: public/views/transaction.html
+msgid "Input"
+msgstr "Input"
+
+#: public/views/status.html
+msgid "Last Block"
+msgstr "Laatste Blok"
+
+#: public/views/status.html
+msgid "Last Block Hash (Guldencoind)"
+msgstr "Laatste Blok Hash (guldencoind)"
+
+#: public/views/index.html
+msgid "Latest Blocks"
+msgstr "Laatste Blokken"
+
+#: public/views/index.html
+msgid "Latest Transactions"
+msgstr "Laatste Transacties"
+
+#: public/views/address.html
+msgid "Loading Address Information"
+msgstr "Adres informatie aan het laden"
+
+#: public/views/block.html
+msgid "Loading Block Information"
+msgstr "Blok informatie aan het laden"
+
+#: public/views/block_list.html
+msgid "Loading Selected Date..."
+msgstr "Geselecteerde Datum aan het laden..."
+
+#: public/views/transaction.html
+msgid "Loading Transaction Details"
+msgstr "Transactie Details aan het laden"
+
+#: public/views/transaction/list.html
+msgid "Loading Transactions..."
+msgstr "Transacties aan het laden..."
+
+#: public/views/includes/infoStatus.html
+msgid "Loading..."
+msgstr "aan het laden..."
+
+#: public/views/transaction.html
+msgid "Mined Time"
+msgstr "Gedolven Tijd"
+
+#: public/views/block.html public/views/block_list.html
+#: public/views/index.html
+msgid "Mined by"
+msgstr "Gedolven door"
+
+#: public/views/status.html
+msgid "Mining Difficulty"
+msgstr "Mijnen Moeilijkheidsgraad"
+
+#: public/views/block.html
+msgid "Next Block"
+msgstr "Volgende Blok"
+
+#: public/views/transaction/tx.html
+msgid "No Inputs (Newly Generated Coins)"
+msgstr "Geen Input (Nieuw Gegenereerde Coins)"
+
+#: public/views/block_list.html
+msgid "No blocks yet."
+msgstr "Nog geen blokken."
+
+#: public/views/includes/search.html
+msgid "No matching records found!"
+msgstr "Geen overeenkomende records gevonden!"
+
+#: public/views/address.html
+msgid "No. Transactions"
+msgstr "Aantal Transacties"
+
+#: public/views/block.html
+msgid "Number Of Transactions"
+msgstr "Aantal Transacties"
+
+#: public/views/transaction.html
+msgid "Output"
+msgstr "Output"
+
+#: public/views/index.html
+msgid "Powered by"
+msgstr "Powered by"
+
+#: public/views/block.html
+msgid "Previous Block"
+msgstr "Vorige Blok"
+
+#: public/views/status.html
+msgid "Protocol version"
+msgstr "Protolcol versie"
+
+#: public/views/status.html
+msgid "Proxy setting"
+msgstr "Proxy setting"
+
+#: public/views/transaction.html
+msgid "Received Time"
+msgstr "Ontvangen Tijd"
+
+#: public/views/redirect.html
+msgid "Redirecting..."
+msgstr "Omleiden..."
+
+#: public/views/includes/search.html
+msgid "Search for block, transaction or address"
+msgstr "Zoek naar blok, transactie of adres "
+
+#: public/views/index.html
+msgid "See all blocks"
+msgstr "Bekijk alle blokken"
+
+#: public/views/status.html
+msgid "Show Transaction Output data"
+msgstr "Bekijk Transactie Output gegevens"
+
+#: public/views/transaction/tx.html
+msgid "Show all"
+msgstr "Bekijk alles"
+
+#: public/views/transaction/tx.html
+msgid "Show input"
+msgstr "Bekijk input"
+
+#: public/views/transaction/tx.html
+msgid "Show less"
+msgstr "Bekijk minder"
+
+#: public/views/transaction/tx.html
+msgid "Show more"
+msgstr "Bekijk meer"
+
+#: public/views/block_list.html public/views/index.html
+#: public/views/transaction.html
+msgid "Size"
+msgstr "Grote"
+
+#: public/views/block.html
+msgid "Size (bytes)"
+msgstr "Grote (bytes)"
+
+#: public/views/status.html
+msgid "Skipped Blocks (previously synced)"
+msgstr "Overgeslagen blokken (eerder gesynchroniseerd)"
+
+#: public/views/status.html
+msgid "Start Date"
+msgstr "Begin Datum"
+
+#: public/views/dummy-translations.html
+msgid "Status"
+msgstr "Status"
+
+#: public/views/block.html public/views/transaction.html
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: public/views/address.html
+msgid "Summary <small>confirmed</small>"
+msgstr "Samenvatting <small>bevestigd</small>"
+
+#: public/views/status.html
+msgid "Sync Progress"
+msgstr "Sync Voortgang"
+
+#: public/views/status.html
+msgid "Sync Status"
+msgstr "Sync Status"
+
+#: public/views/status.html
+msgid "Sync Type"
+msgstr "Sync Type"
+
+#: public/views/status.html
+msgid "Synced Blocks"
+msgstr "Gesynchroniseerde blokken"
+
+#: public/views/status.html
+msgid "Testnet"
+msgstr "Testnet"
+
+#: public/views/transaction/list.html
+msgid "There are no transactions involving this address."
+msgstr "Er zijn geen transacties met dit adres."
+
+#: public/views/status.html
+msgid "Time Offset"
+msgstr "Tijd Offset"
+
+#: public/views/block.html public/views/block_list.html
+msgid "Timestamp"
+msgstr "Tijdstempel"
+
+#: public/views/block_list.html
+msgid "Today"
+msgstr "Vandaag"
+
+#: public/views/status.html
+msgid "Total Amount"
+msgstr "Totaal bedrag"
+
+#: public/views/address.html
+msgid "Total Received"
+msgstr "Totaal ontvangen"
+
+#: public/views/address.html
+msgid "Total Sent"
+msgstr "Totaal Verzonden"
+
+#: public/views/transaction.html
+msgid "Transaction"
+msgstr "Transactie"
+
+#: public/views/status.html
+msgid "Transaction Output Set Information"
+msgstr "Transactie Output Set Informatie"
+
+#: public/views/status.html
+msgid "Transaction Outputs"
+msgstr "Transactie Outputs"
+
+#: public/views/address.html public/views/block.html
+#: public/views/block_list.html public/views/index.html
+#: public/views/status.html
+msgid "Transactions"
+msgstr "Transacties"
+
+#: public/views/transaction/tx.html
+msgid "Type"
+msgstr "Type"
+
+#: public/views/address.html
+msgid "Unconfirmed"
+msgstr "Niet bevestigd"
+
+#: public/views/transaction.html public/views/transaction/tx.html
+msgid "Unconfirmed Transaction!"
+msgstr "Niet Bevestigde Transactie!"
+
+#: public/views/address.html
+msgid "Unconfirmed Txs Balance"
+msgstr "Niet Bevestigde Tx's balans"
+
+#: public/views/index.html
+msgid "Value Out"
+msgstr "Waarde Uit"
+
+#: public/views/block.html public/views/status.html
+msgid "Version"
+msgstr "Versie"
+
+#: public/views/block_list.html public/views/index.html
+msgid "Waiting for blocks..."
+msgstr "Wachten op blokken..."
+
+#: public/views/index.html
+msgid "Waiting for transactions..."
+msgstr "Wachten op transacties..."
+
+#: public/views/block_list.html
+msgid "by date."
+msgstr "op datum."
+
+#: public/views/transaction/tx.html
+msgid "first seen at"
+msgstr "voor het eerst gezien op"
+
+#: public/views/transaction/tx.html
+msgid "mined"
+msgstr "gedolven"
+
+#: public/views/block_list.html
+msgid "mined on:"
+msgstr "gedolven op:"

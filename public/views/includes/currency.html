@@ -1,0 +1,17 @@
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+฿{{currency.nlgbtc}} &middot; {{currency.symbol}} <span class="caret"></span>
+</a>
+<ul class="dropdown-menu">
+<li>
+<a href="#" data-ng-click="setCurrency('BTC')" data-ng-class="{active: currency.symbol == 'BTC'}">BTC</a>
+</li>
+<li>
+<a href="#" data-ng-click="setCurrency('NLG')" data-ng-class="{active: currency.symbol == 'NLG'}">NLG</a>
+</li>
+<li>
+<a href="#" data-ng-click="setCurrency('mNLG')" data-ng-class="{active: currency.symbol == 'mNLG'}">mNLG</a>
+</li>
+<li>
+<a href="#" data-ng-click="setCurrency('uNLG')" data-ng-class="{active: currency.symbol == 'uNLG'}">uNLG</a>
+</li>
+</ul>
