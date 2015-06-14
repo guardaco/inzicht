@@ -1,65 +1,52 @@
 {
-  "name": "insight-bitcore",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
+  "name": "Inzicht",
+  "description": "An open-source frontend for the Inzicht API. The Inzicht API provides you with a convenient, powerful and simple way to query and broadcast data on the Litecoin network and build your own services with it.",
   "version": "0.2.5",
   "author": {
-    "name": "Ryan X Charles",
-    "email": "ryan@bitpay.com"
+    "name": "strataghyst",
+    "email": "strataghyst@gmail.com"
   },
-  "repository": "git://github.com/bitpay/insight.git",
+  "repository": "git://github.com/strataghyst/Inzicht.git",
   "contributors": [
     {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
+      "name": "SS",
+      "email": "flappy@flappycoin.io"
     },
-    {
-      "name": "Manuel Araoz",
-      "email": "manuelaraoz@gmail.com"
-    },
-    {
-      "name": "Mario Colque",
-      "email": "colquemario@gmail.com"
-    },
-    {
-      "name": "Gustavo Cortez",
-      "email": "cmgustavo83@gmail.com"
-    },
-    {
-      "name": "Juan Ignacio Sosa Lopez",
-      "email": "bechilandia@gmail.com"
+   {
+      "name": "strataghyst",
+      "email": "strataghyst@gmail.com"
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight/issues"
+    "url": "https://github.com/strataghyst/Inzicht/issues"
   },
-  "homepage": "https://github.com/bitpay/insight",
+  "homepage": "https://github.com/strataghyst/Inzicht",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "bitcoin",
+    "litecoin",
     "bitcore",
     "front-end"
   ],
   "scripts": {
-    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
+    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/Inzicht-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/bitpay/insight-api.git"
+    "Inzicht-api": "git://github.com/pembo210/Inzicht-api.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
     "grunt": "~0.4.2",
-    "grunt-angular-gettext": "^2.1.0",
     "grunt-cli": "~0.1.11",
-    "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-uglify": "~0.3.2",
     "grunt-contrib-watch": "*",
-    "grunt-css": "~0.5.4",
     "grunt-macreload": "*",
+    "grunt-css": "~0.5.4",
     "grunt-markdown": "~0.5.0",
-    "grunt-npm-install": "^0.2.0"
+    "grunt-angular-gettext": "^0.2.15"
   }
 }
