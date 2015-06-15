@@ -1,7 +1,7 @@
 'use strict';
 
-var defaultLanguage = localStorage.getItem('insight-language') || 'en';
-var defaultCurrency = localStorage.getItem('insight-currency') || 'BTC';
+var defaultLanguage = localStorage.getItem('insight-language') || 'nl';
+var defaultCurrency = localStorage.getItem('insight-currency') || 'NLG';
 
 angular.module('insight',[
   'ngAnimate',
