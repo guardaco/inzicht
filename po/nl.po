@@ -22,14 +22,14 @@ msgstr "404 pagina niet gevonden :("
 #: public/views/index.html
 msgid ""
 "<strong>inzicht</strong>  is an <a href=\"http://inzicht.deguldenmijn.eu/\" "
-"target=\"_blank\">open-source Guldencoin blockchain explorer</a> with "
+"target=\"_blank\">open-source Gulden blockchain explorer</a> with "
 "complete REST and websocket APIs that can be used for writing web wallets "
 "and other apps  that need more advanced blockchain queries than provided by "
 "bitcoind RPC.  Check out the <a href=\"http://github.com/strataghyst/inzicht"
 "\" target=\"_blank\">source code</a>."
 msgstr ""
 "<strong>inzicht</strong> is een <a href=\"http://inzicht.deguldenmijn.eu/\" "
-"target=\"_blank\">open-source Guldencoin blokketen explorer</a> with "
+"target=\"_blank\">open-source Gulden blokketen explorer</a> with "
 "complete REST and websocket APIs die gebruikt kunnen worden voor het "
 "ontwikkelen van webwallets en andere apps die geavanceerdere blokketen "
 "queries gebruiken dan de bitcoind RPC.  Kijk naar de <a href=\"http://github."
@@ -83,8 +83,8 @@ msgid ""
 "Can't connect to guldencoind to get live updates from the p2p network. "
 "(Tried connecting to guldencoind at {{host}}:{{port}} and failed.)"
 msgstr ""
-"Kan geen verbinding maken met Guldencoind om live updates van het p2p-"
-"netwerk krijgen. (Geprobeerd te verbinden met Guldencoind op {host}}:"
+"Kan geen verbinding maken met Gulden deamon om live updates van het p2p-"
+"netwerk krijgen. (Geprobeerd te verbinden met Gulden deamon op {host}}:"
 "{{port}} maar mislukt.)"
 
 #: public/views/includes/connection.html
@@ -154,20 +154,20 @@ msgstr "Ga naar home"
 
 #: public/views/index.html
 msgid ""
-"Guldencoin is a peer-to-peer Internet currency that enables instant, near-"
-"zero cost payments to anyone in the world. Guldencoin is an open source, "
+"Gulden is a peer-to-peer Internet currency that enables instant, near-"
+"zero cost payments to anyone in the world. Gulden is an open source, "
 "global payment network that is fully decentralized. Mathematics secures the "
 "network and empowers individuals to control their own finances."
 msgstr ""
-"Guldencoin is een peer-to-peer internet betaalmiddel waarmee je direct bijna "
-"kosteloos betalingen kunt verichten overal ter wereld. Guldencoin is een "
+"Gulden is een peer-to-peer internet betaalmiddel waarmee je direct bijna "
+"kosteloos betalingen kunt verichten overal ter wereld. Gulden is een "
 "open source wereldwijd betaalmiddel die volledig gedecentraliceerd is. "
 "Wiskunde beveiligd het netwerk en geeft individuen de macht om hun eigen "
 "financien te beheren."
 
 #: public/views/status.html
-msgid "Guldencoin node information"
-msgstr "Guldencoin node informatie"
+msgid "Gulden node information"
+msgstr "Gulden node informatie"
 
 #: public/views/status.html
 msgid "Hash Serialized"
@@ -204,7 +204,7 @@ msgid "Last Block"
 msgstr "Laatste Blok"
 
 #: public/views/status.html
-msgid "Last Block Hash (Guldencoind)"
+msgid "Last Block Hash (Gulden deamon)"
 msgstr "Laatste Blok Hash (guldencoind)"
 
 #: public/views/index.html
@@ -335,11 +335,11 @@ msgstr "Bekijk meer"
 #: public/views/block_list.html public/views/index.html
 #: public/views/transaction.html
 msgid "Size"
-msgstr "Grote"
+msgstr "Grootte"
 
 #: public/views/block.html
 msgid "Size (bytes)"
-msgstr "Grote (bytes)"
+msgstr "Grootte (bytes)"
 
 #: public/views/status.html
 msgid "Skipped Blocks (previously synced)"
