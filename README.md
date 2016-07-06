@@ -5,7 +5,7 @@
 
 # *inzicht*
 
-*inzicht* is an open-source Guldencoin blockchain explorer with complete REST and websocket APIs.
+*inzicht* is an open-source Gulden blockchain explorer with complete REST and websocket APIs.
 inzicht runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
 
 Check some screenshots and more details at [inzicht's project homepage](https://github.com/strataghyst/inzicht).
@@ -40,7 +40,7 @@ and for the front-end. This repository is for the front-end, which will install 
 
     http://localhost:3000
 
-  If *inzicht* reports problems connecting to **guldencoind** please check the CONFIGURATION section of 
+  If *inzicht* reports problems connecting to **GuldenD** please check the CONFIGURATION section of 
   [inzicht-api README](https://github.com/strataghyst/inzicht-api/blob/master/README.md). To set the 
   environment variables run something like:
   
