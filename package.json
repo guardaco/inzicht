@@ -34,7 +34,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/Inzicht-bitcore-api"
   },
   "dependencies": {
-    "Inzicht-api": "git://github.com/strataghyst/Inzicht-api.git"
+    "Inzicht-api": "git://github.com/guardaco/Inzicht-api.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
